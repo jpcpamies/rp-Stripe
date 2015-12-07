@@ -42,6 +42,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Using Boostrap for improving the look and feel
 gem 'bootstrap-sass'
 
+# Using Stripe for e-commerce payments
+gem 'stripe'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
